@@ -39,11 +39,8 @@
     <h2>🧹 Cleaning Performed</h2>
     <ul>
       <li>Removed 54 duplicate rows.</li>
-      <li>Filled 23 missing <code>Gender</code> values with <code>"Unknown"</code>.</li>
       <li>Standardized <code>Date</code> format to <code>dd-mm-yyyy</code>.</li>
       <li>Capitalized all entries in the <code>Name</code> column.</li>
-      <li>Converted abbreviations: <code>"M"</code> → <code>"Male"</code>, <code>"F"</code> → <code>"Female"</code>.</li>
-      <li>Trimmed extra whitespace in the <code>Country</code> and <code>Email</code> columns.</li>
     </ul>
   </div>
 
