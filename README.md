@@ -10,7 +10,7 @@
     <li style="margin: 8px 0;">Removed 54 duplicate rows.</li>
     <li style="margin: 8px 0;">Standardized <code style="background: #eee; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">Date</code> format to <code style="background: #eee; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">dd-mm-yyyy</code>.</li>
     <li style="margin: 8px 0;">Capitalized all entries in the <code style="background: #eee; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">Name</code> column.</li>
-    <li style="margin: 8px 0;">Replaced blank cells with <code style="background: #eee; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">null</code> values.</li>
+    <li style="margin: 8px 0;">Replaced blank cells with <code style="background: #eee; padding: 2px 6px; border-radius: 4px; font-size: 0.9em;">N/A</code> values.</li>
   </ul>
 </div>
 
